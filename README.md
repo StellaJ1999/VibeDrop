@@ -1,5 +1,7 @@
 # Vibedrop – Användarguide
 
+## Live preview: https://incandescent-platypus-3fdb48.netlify.app/start
+
 Vibedrop är en modern webbapplikation för samarbete kring musikprojekt. Den här guiden hjälper dig att komma igång, utveckla, bygga och förstå de viktigaste funktionerna i frontend-projektet.
 
 ## Techstack
